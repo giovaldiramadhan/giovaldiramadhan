@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is GIO and I'm a master's student at the Bandung Institute of Technology</h2>
+<h2 align="left">Hi 👋! My name is GIO and I'm a master's student at the Bandung Institute of Technology and Kanazawa University</h2>
 
 ###
 
